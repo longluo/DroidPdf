@@ -22,6 +22,7 @@ Thumbs.db
 bin/
 gen/
 out/
+
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
@@ -33,7 +34,7 @@ build/
 local.properties
 
 # Gradle config
-gradle.properties
+#gradle.properties
 
 # Eclipse project files
 .classpath
@@ -59,7 +60,6 @@ captures/
 
 # IntelliJ
 *.iml
-.idea/*
 .idea/
 .idea/workspace.xml
 .idea/tasks.xml
